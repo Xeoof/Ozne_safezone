@@ -1,7 +1,6 @@
--- Developped by Ozne#4870
--- Reproduction and resell forbiden
--- GNU license active
--- join my discord for more https://discord.gg/nx3TKM5
+-- Developed by Ozne#4870, modified by Xeoo#0271
+-- Reproduction and resell forbidden
+-- Join Ozne's Discord : https://discord.gg/nx3TKM5
 
 ESX = nil
 
@@ -89,13 +88,6 @@ Citizen.CreateThread(function()
 end)
 
 
--- Developped by Ozne#4870
--- Reproduction and resell forbiden
--- GNU license active
--- join my discord for more https://discord.gg/nx3TKM5
-
-print ( " ^0 ======================================================================= ^7 " ) 
-print ( " ^2Creator ^0: Ozne#4870 " ) 
-print ( " Mon discord: ^2 https://discord.gg/nx3TKM5 " ) 
-print ( " Mon Github: ^2 https://github.com/Ozneeee " ) 
-print ( " ^0 ======================================================================= ^7 " )
+-- Developed by Ozne#4870, modified by Xeoo#0271
+-- Reproduction and resell forbidden
+-- Join Ozne's Discord : https://discord.gg/nx3TKM5
